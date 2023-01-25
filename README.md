@@ -6,7 +6,7 @@ Data Scientist Candidate | Statistician | Business Analyst
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [yurtcanmustafa@gmail.com](mailto:yurtcanmustafa@gmail.com)
-* 🚀  I'm currently working on [Data Science and Machine Learning](http://Data Science and Machine Learning)
+* 🚀  I'm currently working on Data Science and Machine Learning
 * 🧠  I'm learning Artificial Intelligence
 * ⚡  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion
 
